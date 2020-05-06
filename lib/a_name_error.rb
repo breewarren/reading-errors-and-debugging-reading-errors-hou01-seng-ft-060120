@@ -1,1 +1,1 @@
-hello_word = "hello world"
+greeting = "hello world"
